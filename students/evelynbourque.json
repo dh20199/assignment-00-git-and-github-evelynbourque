@@ -1,0 +1,13 @@
+{
+    "firstName": "Evelyn",
+    "lastName": "Bourque",
+    "privateName": false,
+    "picture": "/images/evelynbourque.jpg",
+    "privatePicture": false,
+    "email": "evelyn.bourque@mail.utoronto.ca",
+    "privateEmail": false,
+    "github": "evelynbourque",
+    "privateGithub": false,
+    "superpower" : "organizing small spaces",
+    "academicinterests": "digital humanities, computer science, political science...sometimes"
+  }
