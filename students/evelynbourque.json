@@ -2,7 +2,7 @@
     "firstName": "Evelyn",
     "lastName": "Bourque",
     "privateName": false,
-    "picture": "/images/evelynbourque.jpg",
+    "picture": "images/evelynbourque.jpg",
     "privatePicture": false,
     "email": "evelyn.bourque@mail.utoronto.ca",
     "privateEmail": false,
